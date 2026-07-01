@@ -90,7 +90,19 @@ Explore the interactive dashboard here:
 
 https://public.tableau.com/app/profile/sabbir.ahmed3169/viz/dashboardcyclistic22/CyclisticDashboard1
 
+---## 📄 Project Report
+
+The complete project report is available in the **Reports** folder.
+
+📄 **Report:** [Cyclistic_Bike_Share_Analysis_Report.pdf](Reports/Cyclistic_Bike_Share_Analysis_Report.pdf)
+
 ---
+
+## 🔗 Project Links
+
+* **📊 Interactive Tableau Dashboard:** https://public.tableau.com/app/profile/sabbir.ahmed3169/viz/dashboardcyclistic22/CyclisticDashboard1
+* **💻 GitHub Repository:** https://github.com/sabbir9994/cyclistic-bike-share-analysis
+
 
 ## 💡 Key Insights
 
